@@ -21,7 +21,6 @@ jupyter notebook
 * [bokeh](https://docs.bokeh.org/en/latest/docs/installation.html)
 
 ## Graph of Austin Data
-### Weekly Average Morning Commute
 ![screenshot](screenshots/regional_screenshot.JPG)
 
 ### Graph of Country Data
